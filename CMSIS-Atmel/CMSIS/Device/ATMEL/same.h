@@ -47,6 +47,8 @@
 #include "same70/include/same70.h"
 #elif defined (__SAME70Q21__)
 #include "same70/include/same70.h"
+#elif defined (__SAME51G19A__)
+#include "same51/include/same51.h"
 #endif
 
 #endif /* _SAME_INCLUDED_ */
