@@ -47,7 +47,19 @@
 #include "same70/include/same70.h"
 #elif defined (__SAME70Q21__)
 #include "same70/include/same70.h"
+#elif defined (__SAME51G18A__)
+#include "same51/include/same51.h"
 #elif defined (__SAME51G19A__)
+#include "same51/include/same51.h"
+#elif defined (__SAME51J18A__)
+#include "same51/include/same51.h"
+#elif defined (__SAME51J19A__)
+#include "same51/include/same51.h"
+#elif defined (__SAME51J20A__)
+#include "same51/include/same51.h"
+#elif defined (__SAME51N19A__)
+#include "same51/include/same51.h"
+#elif defined (__SAME51N20A__)
 #include "same51/include/same51.h"
 #endif
 
